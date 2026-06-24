@@ -1,0 +1,12 @@
+# Segredos / credenciais — NUNCA commitar
+.env
+.env.*
+*.pem
+*.key
+
+# Dependências
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
